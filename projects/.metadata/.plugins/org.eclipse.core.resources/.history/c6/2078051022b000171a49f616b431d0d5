@@ -1,0 +1,17 @@
+package Constructor;
+
+public class CarDemo {
+
+	public static void main(String[] args) {
+		
+		Car c = new Car("6575","Sonata","Hyndai" );
+		c.start("Hyndai");
+		c.stop();
+		 c = new Car("Accent","9865");
+		c.start("Honda");
+		c.stop();
+		
+		
+	}
+
+}

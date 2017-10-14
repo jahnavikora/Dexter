@@ -1,0 +1,19 @@
+package practice;
+
+public class InheritanceDemo {
+
+	private static Animal a;
+
+	public static void main(String[] args) {
+		a = new Dog();
+		
+		
+		
+	
+		
+		
+				
+
+	}
+
+}

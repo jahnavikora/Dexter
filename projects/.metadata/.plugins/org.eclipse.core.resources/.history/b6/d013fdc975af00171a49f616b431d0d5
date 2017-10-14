@@ -1,0 +1,18 @@
+package practice;
+
+import java.util.Scanner;
+
+public class ArrayDemoe {
+
+	public static void main(String[] args) {
+		boolean pay;
+		int n;
+		System.out.println("enter number of students");
+		Scanner sc = new Scanner(System.in);
+		n=.scnextInt();
+		if(students (i) == true) {
+			System.out.println(students(i));
+		}
+		
+	}
+}

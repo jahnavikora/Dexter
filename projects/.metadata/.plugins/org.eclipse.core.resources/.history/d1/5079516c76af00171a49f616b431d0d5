@@ -1,0 +1,31 @@
+package practice;
+
+import java.util.Scanner;
+
+public class ArrayDemoe {
+
+	public static void main(String[] args) {
+		boolean[] pay;
+		int n;
+		String[] s;
+		System.out.println("enter number of students");
+		Scanner sc = new Scanner(System.in);
+		n=sc.nextInt();
+		for(int i = 1;i<n;i++)
+		{
+			System.out.println("Enter" +i+ "Student name");
+			Scanner sc1 = new Scanner(System.in);
+			s[i]=sc1.nextLine();
+		}
+		for(int i = 1;i<n;i++)
+		{
+			System.out.println("Enter" +i+ "Student name");
+			Scanner sc1 = new Scanner(System.in);
+			pay[i]=sc1.nextLine();
+		}
+		
+		
+		}
+		
+	}
+}

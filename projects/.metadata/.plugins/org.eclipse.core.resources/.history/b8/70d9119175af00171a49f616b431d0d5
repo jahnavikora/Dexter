@@ -1,0 +1,17 @@
+package practice;
+
+import java.util.Scanner;
+
+public class ArrayDemoe {
+
+	public static void main(String[] args) {
+		boolean pay;
+		String [] students = new String[10];
+		Scanner sc = new Scanner(System.in);
+		sc=students.nextLine();
+		if(students (i) == true) {
+			System.out.println(students(i));
+		}
+		
+	}
+}

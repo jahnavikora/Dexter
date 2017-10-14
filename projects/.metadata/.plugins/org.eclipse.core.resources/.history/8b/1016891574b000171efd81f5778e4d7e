@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public class AmpDemo {
+	public static void main(String[] args) {
+		System.out.println(Amp.area(1,2));
+		System.out.println(Rect.area(1,2));
+	}
+}

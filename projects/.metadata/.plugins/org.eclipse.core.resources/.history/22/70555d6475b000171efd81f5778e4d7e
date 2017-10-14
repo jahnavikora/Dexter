@@ -1,0 +1,14 @@
+package Polymorphism;
+
+public class OverRideDemo {
+
+	public static void main(String[] args) {
+		
+		Square s = new Square();
+		s.area(8);
+		System.out.println("Area of square is " +s);
+	    Rectangle r = new Rectangle();
+        r.area(9, 5);
+	}
+
+}

@@ -1,0 +1,25 @@
+package Polymorphism;
+
+import java.util.Scanner;
+
+public class TestInterface {
+
+	public static void main(String[] args) {
+		int x;
+		System.out.println("enter the amount");
+		Scanner sc= new Scanner(System.in);
+		x = sc.nextInt();
+		
+		Bank b = new Bofa();
+		int y= x * 12* (b.interest());
+		System.out.println("Interest" y);
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

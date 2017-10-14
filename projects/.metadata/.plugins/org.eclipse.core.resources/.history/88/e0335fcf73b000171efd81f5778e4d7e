@@ -1,0 +1,10 @@
+package Polymorphism;
+
+public class Citi implements Bank {
+	public int Interest() {
+		return 6;
+	}
+	
+	
+
+}

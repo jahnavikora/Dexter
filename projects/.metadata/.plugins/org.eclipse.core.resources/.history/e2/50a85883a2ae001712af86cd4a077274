@@ -1,0 +1,17 @@
+package Inheritance;
+
+public class Manager extends Person {
+	
+
+	public Manager(int age, float salary, String name, String role, String organization) {
+		super(age, salary, name, role, organization);
+		
+	}
+
+	
+
+	public void manage() {
+		System.out.println(name + "manages the organization");
+	}
+
+}

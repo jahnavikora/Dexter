@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public interface Bank {
+	void Interest();
+		
+	
+
+}

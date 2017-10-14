@@ -1,0 +1,21 @@
+package practice;
+
+import java.util.Scanner;
+
+public class ArrayDemoe {
+
+	public static void main(String[] args) {
+		boolean pay;
+		int n;
+		System.out.println("enter number of students");
+		Scanner sc = new Scanner(System.in);
+		n=sc.nextInt();
+		for(int i = 1;i<n;i++)
+		{
+			Scanner sc1 = new Scanner(System.in);
+		}
+		
+		}
+		
+	}
+}

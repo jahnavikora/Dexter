@@ -1,0 +1,19 @@
+package practice;
+
+public class Animal {
+int age;
+int height;
+int NoOfLegs;
+String color;
+String name;
+
+public void walk() {
+	System.out.println(name + "is walking");
+}
+public void eat() {
+	System.out.println(name + "eating");
+}
+public void GiveBirth() {
+	System.out.println(name + "gives birth");
+}
+}

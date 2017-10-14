@@ -1,0 +1,11 @@
+package Inheritance;
+
+public class InheritanceTest {
+	
+	public static void main(String[] args) {
+
+	SeniorEmployee sr = new SeniorEmployee(21, 3000, "apple", "developer", "dexter");
+	JuniorEmployee jr = new JuniorEmployee(25, 3500, "sam", "developer", "dexterr");
+	
+}
+}

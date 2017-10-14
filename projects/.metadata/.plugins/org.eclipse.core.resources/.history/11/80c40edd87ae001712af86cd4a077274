@@ -1,0 +1,30 @@
+package practice;
+
+public class InheritanceDemo {
+
+	public static void main(String[] args) {
+		Animal d = new Animal();
+		d.eat();
+		d.walk();
+		d.GiveBirth();
+		
+		Cat cat = new Cat();
+		cat.eat();
+		cat.walk();
+		cat.GiveBirth();
+		
+		
+		Cow c = new Cow();
+		c.eat();
+		c.walk();
+		c.GiveBirth();
+		c.milk();
+		
+		
+		
+		
+				
+
+	}
+
+}

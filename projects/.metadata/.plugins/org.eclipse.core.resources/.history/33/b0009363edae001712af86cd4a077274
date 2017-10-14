@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public class Bofa implements Bank {
+	 public int interest() {
+		return 8;
+	}
+
+}

@@ -1,0 +1,7 @@
+package Polymorphism;
+
+public class Chase implements Bank{
+public int Interest() {
+	return 5;
+}
+}

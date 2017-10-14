@@ -1,0 +1,9 @@
+package Polymorphism;
+
+public class Discover implements Bank{
+	public int Interest()
+	{
+		return 9;
+	}
+
+}

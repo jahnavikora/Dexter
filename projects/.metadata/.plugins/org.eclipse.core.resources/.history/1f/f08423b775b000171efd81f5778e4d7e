@@ -1,0 +1,9 @@
+package Polymorphism;
+
+public class Rectangle {
+
+	double area(int l, int b)
+	{
+		return l*b;
+	}
+}
